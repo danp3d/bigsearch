@@ -1,7 +1,7 @@
 # bigsearch
-Fast search for big arrays
-Current functionality: binary search
-To do: Levenshtein
+Fast search for big arrays.  
+Current functionality: binary search.  
+To do: Levenshtein.  
 
 ## Usage
 ``` js
