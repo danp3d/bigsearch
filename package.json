@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "test": "mocha --reporter spec --compilers coffee:coffee-script/register",
-        "prepublish": "npm test && gulp build"
+        "prepublish": "npm test && gulp build",
+        "postpublish": "git push"
     },
     "repository": {
         "type": "git",
