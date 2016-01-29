@@ -19,4 +19,4 @@ var indexFound = bigsearch.binarySearch(stringArray, target, function (tgt, elem
 });
 ```
 
-Even though the results are similar to Array#indexOf, this package runs thousands of times (literally) faster than Array#indexOf, especially when dealing with super large arrays.
+Even though the results are similar to Array#indexOf, this package runs thousands of times (literally) faster, especially when dealing with super large arrays.
